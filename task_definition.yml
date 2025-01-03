@@ -1,5 +1,9 @@
 sourceFile: src/task.py
 
+limits:
+  time: 10
+  memory: 6m
+
 tasks:
   task_1:
     user_input_filename: liczby.txt
