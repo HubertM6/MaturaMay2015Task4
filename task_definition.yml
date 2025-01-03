@@ -1,0 +1,33 @@
+sourceFile: src/task.py
+
+tasks:
+  task_1:
+    user_input_filename: liczby.txt
+    user_output_filename: wyniki.txt
+    checkTypes:
+      FAST:
+        input_files_directory: tests/task_1/fast/in
+        output_files_directory: tests/task_1/fast/out
+      FULL:
+        input_files_directory: tests/task_1/full/in
+        output_files_directory: tests/task_1/full/out
+  task_2:
+    user_input_filename: liczby.txt
+    user_output_filename: wyniki.txt
+    checkTypes:
+      FAST:
+        input_files_directory: tests/task_2/fast/in
+        output_files_directory: tests/task_2/fast/out
+      FULL:
+        input_files_directory: tests/task_2/full/in
+        output_files_directory: tests/task_2/full/out
+  task_3:
+    user_input_filename: liczby.txt
+    user_output_filename: wyniki.txt
+    checkTypes:
+      FAST:
+        input_files_directory: tests/task_3/fast/in
+        output_files_directory: tests/task_3/fast/out
+      FULL:
+        input_files_directory: tests/task_3/full/in
+        output_files_directory: tests/task_3/full/out
