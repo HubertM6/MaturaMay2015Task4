@@ -6,6 +6,7 @@ limits:
 
 tasks:
   task_1:
+    tested_function_name: task_1
     user_input_filename: liczby.txt
     user_output_filename: wyniki.txt
     checkTypes:
@@ -16,6 +17,7 @@ tasks:
         input_files_directory: tests/task_1/full/in
         output_files_directory: tests/task_1/full/out
   task_2:
+    tested_function_name: task_2
     user_input_filename: liczby.txt
     user_output_filename: wyniki.txt
     checkTypes:
@@ -26,6 +28,7 @@ tasks:
         input_files_directory: tests/task_2/full/in
         output_files_directory: tests/task_2/full/out
   task_3:
+    tested_function_name: task_3
     user_input_filename: liczby.txt
     user_output_filename: wyniki.txt
     checkTypes:
