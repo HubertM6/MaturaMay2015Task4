@@ -12,7 +12,7 @@ tasks:
     checkTypes:
       FAST:
         inputFilesDirectory: tests/task_1/fast/in
-        inputFilesDirectory: tests/task_1/fast/out
+        outputFilesDirectory: tests/task_1/fast/out
       FULL:
         inputFilesDirectory: tests/task_1/full/in
         outputFilesDirectory: tests/task_1/full/out
