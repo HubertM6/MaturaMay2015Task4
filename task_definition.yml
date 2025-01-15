@@ -6,35 +6,35 @@ limits:
 
 tasks:
   task_1:
-    tested_function_name: task_1
-    user_input_filename: liczby.txt
-    user_output_filename: wyniki.txt
+    testedFunctionName: task_1
+    userInputFilename: liczby.txt
+    userOutputFilename: wyniki.txt
     checkTypes:
       FAST:
-        input_files_directory: tests/task_1/fast/in
-        output_files_directory: tests/task_1/fast/out
+        inputFilesDirectory: tests/task_1/fast/in
+        inputFilesDirectory: tests/task_1/fast/out
       FULL:
-        input_files_directory: tests/task_1/full/in
-        output_files_directory: tests/task_1/full/out
+        inputFilesDirectory: tests/task_1/full/in
+        outputFilesDirectory: tests/task_1/full/out
   task_2:
-    tested_function_name: task_2
-    user_input_filename: liczby.txt
-    user_output_filename: wyniki.txt
+    testedFunctionName: task_2
+    userInputFilename: liczby.txt
+    userOutputFilename: wyniki.txt
     checkTypes:
       FAST:
-        input_files_directory: tests/task_2/fast/in
-        output_files_directory: tests/task_2/fast/out
+        inputFilesDirectory: tests/task_2/fast/in
+        outputFilesDirectory: tests/task_2/fast/out
       FULL:
-        input_files_directory: tests/task_2/full/in
-        output_files_directory: tests/task_2/full/out
+        inputFilesDirectory: tests/task_2/full/in
+        outputFilesDirectory: tests/task_2/full/out
   task_3:
-    tested_function_name: task_3
-    user_input_filename: liczby.txt
-    user_output_filename: wyniki.txt
+    testedFunctionName: task_3
+    userInputFilename: liczby.txt
+    userOutputFilename: wyniki.txt
     checkTypes:
       FAST:
-        input_files_directory: tests/task_3/fast/in
-        output_files_directory: tests/task_3/fast/out
+        inputFilesDirectory: tests/task_3/fast/in
+        outputFilesDirectory: tests/task_3/fast/out
       FULL:
-        input_files_directory: tests/task_3/full/in
-        output_files_directory: tests/task_3/full/out
+        inputFilesDirectory: tests/task_3/full/in
+        outputFilesDirectory: tests/task_3/full/out
