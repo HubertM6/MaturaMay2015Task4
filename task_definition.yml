@@ -1,8 +1,8 @@
 sourceFile: src/task.py
 
 limits:
-  time: 15
-  memory: 256m
+  time: 15000
+  memory: 256000
 
 tasks:
   task_1:
