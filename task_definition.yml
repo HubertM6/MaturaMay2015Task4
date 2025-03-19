@@ -1,7 +1,7 @@
 sourceFile: src/task.py
 
 limits:
-  time: 15000
+  time: 10000
   memory: 512000
 
 tasks:
