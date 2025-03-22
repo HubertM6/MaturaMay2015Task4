@@ -14,7 +14,7 @@ językach programowania wartości niektórych z tych liczb nie da się zapamięt
 w pojedynczej zmiennej typu całkowitoliczbowego, np. w języku C++ w zmiennej typu
 `int`.\
 Napisz **program**, który da odpowiedzi do poniższych zadań. Odpowiedzi zapisz w pliku
-`wynik4.txt`, a każdą odpowiedź poprzedź numerem oznaczającym odpowiednie zadanie. 
+`wyniki.txt`, lub wypisz na standardowe wyjście. Jeśli wynikiem do zadania jest więcej niż jedna liczba, wypisz każdą z nich w osobnym wierszu.
 
 ## Zadanie 1. (0-3)
 
