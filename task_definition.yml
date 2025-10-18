@@ -10,10 +10,10 @@ tasks:
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
     checkTypes:
-      FAST:
+      EXAMPLE:
         inputFilesDirectory: tests/task_1/fast/in
         outputFilesDirectory: tests/task_1/fast/out
-      FULL:
+      ADDITIONAL:
         inputFilesDirectory: tests/task_1/full/in
         outputFilesDirectory: tests/task_1/full/out
   task_2:
@@ -21,10 +21,10 @@ tasks:
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
     checkTypes:
-      FAST:
+      EXAMPLE:
         inputFilesDirectory: tests/task_2/fast/in
         outputFilesDirectory: tests/task_2/fast/out
-      FULL:
+      ADDITIONAL:
         inputFilesDirectory: tests/task_2/full/in
         outputFilesDirectory: tests/task_2/full/out
   task_3:
@@ -32,9 +32,9 @@ tasks:
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
     checkTypes:
-      FAST:
+      EXAMPLE:
         inputFilesDirectory: tests/task_3/fast/in
         outputFilesDirectory: tests/task_3/fast/out
-      FULL:
+      ADDITIONAL:
         inputFilesDirectory: tests/task_3/full/in
         outputFilesDirectory: tests/task_3/full/out
