@@ -9,6 +9,8 @@ tasks:
     testedFunctionName: task_1
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 3
+    checkerFilename: null
     checkTypes:
       EXAMPLE:
         inputFilesDirectory: tests/task_1/fast/in
