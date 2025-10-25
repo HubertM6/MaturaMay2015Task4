@@ -22,6 +22,8 @@ tasks:
     testedFunctionName: task_2
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 3
+    checkerFilename: null
     checkTypes:
       EXAMPLE:
         inputFilesDirectory: tests/task_2/fast/in
@@ -33,6 +35,8 @@ tasks:
     testedFunctionName: task_3
     userInputFilename: liczby.txt
     userOutputFilename: wyniki.txt
+    maxPoints: 3
+    checkerFilename: null
     checkTypes:
       EXAMPLE:
         inputFilesDirectory: tests/task_3/fast/in
